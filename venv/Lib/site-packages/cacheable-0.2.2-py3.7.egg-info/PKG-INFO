@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: cacheable
+Version: 0.2.2
+Summary: read through cache
+Home-page: https://github.com/d1hotpep/cacheable
+Author: Daniel Pepper
+Author-email: pepper.daniel@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: any
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Programming Language :: Python
+Classifier: Topic :: Utilities
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: English
